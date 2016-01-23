@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
   s.name     = 'JPSThumbnailAnnotation'
-  s.version  = '1.0.0'
+  s.version  = '1.0.1'
   s.platform = :ios
   s.license  = 'MIT'
   s.summary  = 'A simple mapkit annotation for displaying images and details.'
   s.homepage = 'http://jpsim.com/JPSThumbnailAnnotation'
   s.author   = { 'JP Simard' => 'jp@jpsim.com' }
-  s.source   = { :git => 'https://github.com/jpsim/JPSThumbnailAnnotation.git', :tag => s.version.to_s }
+  s.source   = { :git => 'https://github.com/doublenode/JPSThumbnailAnnotation.git', :tag => s.version.to_s }
 
   s.description = 'JPSThumbnailAnnotation is a simple mapkit annotation view for displaying images with clean design and animations.'
 
